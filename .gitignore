@@ -1,0 +1,14 @@
+# LaTeX output
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pyg
+*.synctex.gz
+*.synctex(busy)
+*.out
+
+
+# OS specific files
+# MacOS
+.DS_Store
