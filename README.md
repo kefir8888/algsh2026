@@ -28,4 +28,4 @@ You may also see the list of recommended literature:
 | Lecture Topic | Lecture Date | Notes | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
 | Course structure. Introduction to algorithms. Big-O formalism, examples and counterexamples. | 04.12.2025 | [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/algsh_ha01_2026.pdf) | 10.12.2025 23:59 |
-| Proving Lower Bound for Finding Maximum in Array. Implementing Different Maximum Finding Algorithms. | 11.12.2025 | [notes](/lectures/02_max_programming/notes_max_programming.pdf) <br> [code](/lectures/02_max_programming/sem_max_programming.pdf) | [assignment](/home_assignments/ha02/algsh_ha02_2026.pdf) | 17.12.2025 23:59 |
+| Proving Lower Bound for Finding Maximum in Array. Implementing Different Maximum Finding Algorithms. | 11.12.2025 | [notes](/lectures/02_max_programming/notes_max_programming.pdf) <br> [code](/lectures/02_max_programming/sem_max_programming.ipynb) | [assignment](/home_assignments/ha02/algsh_ha02_2026.ipynb) | 17.12.2025 23:59 |
